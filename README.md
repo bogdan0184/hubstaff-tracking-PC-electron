@@ -1,5 +1,4 @@
 <div align="center">
-    <img src="https://media.giphy.com/media/tPjlmJzj9Z99vwF5dV/giphy.gif" width="50" align="right"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" width="50" align="left"/> 
     <h3>Tracking Employee screen, mouse, keyboard and IP</h3>
 </div>
@@ -34,6 +33,6 @@
  
 ## License (Modified BPL)
 
-Copyright (C) 2011, Blackpandlancer@gmail.com
+Copyright (C) 2022, bogdan0184
 All rights reserved.
 
